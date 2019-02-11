@@ -20,6 +20,7 @@ was anything I could improve upon.
 
 My ideal career progression givin no limitations
 would probably in the following order
+
 1. Be a Software Engineer working at a company the intersects with my other hobbies
 2. Create my own app/program/whatever for something Im interested in
 3. Ideally save enough to become finacially independent by 42
@@ -28,6 +29,7 @@ In the end I would like to keep Computer Science as something that I would like
 to do into retirement but more hobby based.
 
 ## What programming experience do you have? Do you have any web experience?
+
 I am have expieriance in Java, JavaScript, Bash, Python, SQL, HTML, CSS, SQL,
 Node, and someother similar things.  I have some web expieriance as listed above
 and have made websites for various things and used APIs with them and databases
